@@ -1,1 +1,3 @@
 creo este archivo como si fuera un codigo de programacion
+
+hago un cambio en el archivo que ya es parete de git
